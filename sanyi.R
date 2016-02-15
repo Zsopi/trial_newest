@@ -1,4 +1,4 @@
-#na most megy? megy?
+#na most megy? megy? mennyen már....
 
 library(readr)
 library(dplyr)
