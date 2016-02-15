@@ -1,4 +1,4 @@
-na most megy?
+#na most megy? megy?
 
 library(readr)
 library(dplyr)
